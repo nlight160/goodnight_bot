@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 const keyword = 'GOODNIGHT';
-const terribleFriend = '299349110845210625';
+const terribleFriend = 'omitted';
 
 client.once('ready', () => {
     console.log('Bed is made!');
